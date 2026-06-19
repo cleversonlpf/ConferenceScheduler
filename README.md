@@ -64,6 +64,12 @@ Rails for Python Developers,5min
 ```
 
 ## Alternativa: executar via ZIP com arquivo EXE
+
+### Dependencia
+É nescessário ter o Runtime 10.0.9 instalado para executar o programa.
+Opcionamente pode baixar neste link
+https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.301/dotnet-sdk-10.0.301-win-x64.exe
+
 Na versão empacotada em ZIP, está incluso:
 - `ConferenceScheduler.exe`
 - `ConferenceScheduler.dll`
