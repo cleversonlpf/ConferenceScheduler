@@ -64,10 +64,12 @@ Rails for Python Developers,5min
 ```
 
 ## Alternativa: executar via ZIP com arquivo EXE
-Se você distribuir uma versão empacotada em ZIP, inclua:
+Na versão empacotada em ZIP, está incluso:
 - `ConferenceScheduler.exe`
+- `ConferenceScheduler.dll`
+- `ConferenceScheduler.runtimeconfig.json`
+- `CsvHelper.dll`
 - `sample_input.csv`
-- `README.md`
 
 Passos para executar:
 1. Descompacte o arquivo ZIP em uma pasta local.
